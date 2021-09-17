@@ -1,6 +1,6 @@
 # i3-focus-switcher
 
-##How to use
+## How to use
 Add the following lines to your ``.i3/config``:
 
 ```
